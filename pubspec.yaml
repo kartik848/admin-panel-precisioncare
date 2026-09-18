@@ -1,4 +1,4 @@
-name: precisioncare_admin_panel
+name: admin_panel_precisioncare
 description: "PrecisionCare Diagnostic Centre - Dedicated Admin Operations Panel"
 # The following line prevents the package from being accidentally published to
 # pub.dev using `flutter pub publish`. This is preferred for private packages.
