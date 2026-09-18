@@ -23,5 +23,9 @@
 .pub-cache/
 .pub/
 
-# Ignore build artifacts (web deployment files are served directly from root)
-build/
+# Platform builds
+build/app/
+build/ios/
+build/linux/
+build/macos/
+build/windows/
