@@ -23,6 +23,5 @@
 .pub-cache/
 .pub/
 
-# Ignore build artifacts except web distribution for Vercel
-build/*
-!build/web/
+# Ignore build artifacts (web deployment files are served directly from root)
+build/
